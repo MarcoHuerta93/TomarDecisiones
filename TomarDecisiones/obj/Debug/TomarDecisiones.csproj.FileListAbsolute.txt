@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/TomarDecisiones/TomarDecisiones/bin/Debug/TomarDecisiones.exe
+/Users/marcohuerta/Projects/TomarDecisiones/TomarDecisiones/bin/Debug/TomarDecisiones.pdb
+/Users/marcohuerta/Projects/TomarDecisiones/TomarDecisiones/obj/Debug/TomarDecisiones.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/TomarDecisiones/TomarDecisiones/obj/Debug/TomarDecisiones.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/TomarDecisiones/TomarDecisiones/obj/Debug/TomarDecisiones.exe
+/Users/marcohuerta/Projects/TomarDecisiones/TomarDecisiones/obj/Debug/TomarDecisiones.pdb
